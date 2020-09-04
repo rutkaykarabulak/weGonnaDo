@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>164100457632-8r1vf4lc0lla1mbfrstv5l7av3vfbi3o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.164100457632-8r1vf4lc0lla1mbfrstv5l7av3vfbi3o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1Om_1nf0_NYMSWzu775lUySvCNwjdPFE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>164100457632</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rutkaykarabulak.wGonnaDo</string>
+	<key>PROJECT_ID</key>
+	<string>wgonnado-a22c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wgonnado-a22c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:164100457632:ios:6dd9c61a87298d50f0f5c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://wgonnado-a22c4.firebaseio.com</string>
+</dict>
+</plist>
